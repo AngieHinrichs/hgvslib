@@ -5,6 +5,7 @@ PTV003	1	46655125	CTCAC	C	-	NM_017739.3:c.1895+5_1895+8delGTGA	NC_000001.10:g.46
 PTV004	1	68912523	TGAGCCAGAG	T	-	NM_000329.2:c.106_114delCTCTGGCTC	NC_000001.10:g.68912525_68912533delAGCCAGAGG	NP_000320.1:p.Leu36_Leu38del		inframe_deletion		ClinVar	deletion		
 PTV005	1	68912526	GCCAGAG	G	-	NM_000329.2:c.109_114delTGGCTC	NC_000001.10:g.68912527_68912532delCCAGAG	NP_000320.1:p.Trp37_Leu38del	-	inframe_deletion	NULL	Synthetic	deletion	COL4A5	Right shifting inframe deletion on reverse strand (genomic and transcript right shift).
 PTV006	1	109817590	G	T	+	NM_001408.2:c.*919G>T	NC_000001.10:g.109817590G>T	-	-	3_prime_UTR_variant	NULL	ClinVar	substitution	CELSR2	3'UTR regulatory variant with association in ClinVar
+GG005	1	110230857	GA	TC	+	NM_000561.3:c.102_103invGA	NC_000001.10:g.110230857_110230858invGA	NP_000552.2:p.Met35Leu	-	missense_variant	MISSENSE	COSMIC	inversion	GSTM1	COSM133425; contributed by Mehis Pold/Garage Genomics
 PTV007	1	145597475	GAAGT	G	-	NM_006468.6:c.1070+35_1070+38delACTT	NC_000001.10:g.145597477_145597480delAGTA	-		intron_variant; deletion	NULL	Synthetic	deletion	POLR3C	Strand changed in fix patch
 PTV008	1	153791300	CTG	C	+	NM_020699.2:c.562_563delCA	NC_000001.10:g.153791302_153791303delGT	NP_065750.1:p.Gln188Glufs*36	-	frameshift_variant+missense_variant	NULL	Synthetic	deletion	GATAD2B	
 PTV009	1	156104666	TTGAGAGCCGGCTGGCGGATGCGCT	TCCCC	+	NM_005572.3:c.711_734delinsCCCC	NC_000001.10:g.156104667_156104690delinsCCCC	NP_005563.1:p.Glu238Profs*9	-	frameshift_variant+missense_variant	NULL	Synthetic	indel	LMNA -preferred	Right-shifting deletion resulting in different protein change
@@ -21,11 +22,14 @@ PTV075	2	166929889	GTCCAGGTCCT	GAC	-	NM_001165963.1:c.233_242delinsGT	NC_000002.
 PTV076	2	166929891	CCAGGTCCT	C	-	NM_001165963.1:c.233_240delAGGACCTG	NC_000002.11:g.166929893_166929900delAGGTCCTC	NP_001159435.1:p.Glu78Glyfs*7	-	frameshift_variant+missense_variant	NULL	Synthetic	deletion	SCN1A	
 PTV077	2	179393504	G	T	-	NM_133378.4:c.99270C>A	NC_000002.11:g.179393504G>T	NP_596869.4:p.Ser33090Arg	-	missense_variant	MISSENSE	Synthetic	substitution	TTN	
 PTV078	2	185803444	TGCAGCTGCTGCAGCTGCAGCTGCA	T	+	NM_194250.1:c.3324_3347delAGCTGCTGCAGCTGCAGCTGCAGC	NC_000002.11:g.185803447_185803470delAGCTGCTGCAGCTGCAGCTGCAGC	NP_919226.1:p.Ala1112_Ala1119del	-	inframe_deletion	NULL	Synthetic	deletion	ZNF804A	
+GG003	2	197729793	AA	TT	-	NM_024989.3:c.1778_1779invTT	NC_000002.11:g.197729793_197729794invAA	NP_079265.2:p.Phe593*	-	stop_gained	NONSENSE	COSMIC	inversion	PGAP1	COSM5395874; contributed by Mehis Pold/Garage Genomics
 PTV079	2	201950249	G	T	+	NM_002491.2:c.208G>T	NC_000002.11:g.201950249G>T	NP_002482.1:p.Gly70*	-	stop_gained	NONSENSE	ClinVar	substitution	NDUFB3	
 PTV080	2	238268730	C	A	-	NM_004369.3:c.6282+1G>T	NC_000002.11:g.238268730C>A	-	-	splice_donor_variant	NULL	ClinVar	substitution	COL6A3	
+GG007	3	37067160	GGAGATGG	TGGGGAGA	+	NM_000249.3:c.1071_1078delinsTGGGGAGA	NC_000003.11:g.37067160_37067167delinsTGGGGAGA	NP_000240.1:p.Glu358_Val360delinsGlyGluIle	-	missense_variant	MISSENSE	dbSNP	substitution	MLH1	rs587778884; contributed by Mehis Pold/Garage Genomics
 PTV085	3	50402127	T	G	-	NM_006030.2:c.3402A>C	NC_000003.11:g.50402127T>G	NP_006021.2:p.Gln1134His	-	missense_variant	MISSENSE	dbSNP	substitution	CACNA2D2	
 PTV086	3	50402890	G	A	-	NM_006030.2:c.2995C>T	NC_000003.11:g.50402890G>A	NP_006021.2:p.Pro999Ser	-	missense_variant	MISSENSE	dbSNP	substitution	CACNA2D2	
 PTV087	3	57851007	AG	A	+	NM_007159.2:c.1135+565delG	NC_000003.11:g.57851008delG	-	-	intron_variant	NULL	Synthetic	deletion	SLMAP	
+GG001	3	69082855	TC	GA	-	NM_007114.2:c.2245-1_2245invGA	NC_000003.11:g.69082855_69082856invTC	NP_009045.2:p.?	-	splice_acceptor_variant	NULL	COSMIC	inversion	TMF1	COSM1328078; contributed by Mehis Pold/Garage Genomics
 PTV088	3	122003832	G	C	+	NM_000388.3:c.3031C=	NC_000003.11:g.122003832G>C	NP_000379.2:p.Gln1011=	-	synonymous_variant	NULL	dbSNP	substitution	CASR	Discrepancy between the RefSeq transcript and Genomic Sequence; not corrected in GRCh38
 PTV089	4	153332910	C	CAGG	-	NM_033632.3:c.45_46insCCT	NC_000004.11:g.153332912_153332913insGAG	NP_361014.1:p.Thr15_Gly16insPro		inframe_insertion		COSMIC	insertion	FBXW7	
 PTV090	5	1295183	G	A	-	NM_198253.2:c.-79C>T	NC_000005.9:g.1295183G>A	-	-	5_prime_UTR_variant	NULL	Synthetic	substitution	TERT 	TERT promoter mutation
@@ -35,6 +39,7 @@ PTV093	5	131705587	CG	C	+	NM_003060.3:c.-75delG	NC_000005.9:g.131705590delG	-		5
 PTV094	5	148406482	T	C	-	NM_024577.3:c.2813A>G	NC_000005.9:g.148406482T>C	NP_078853.2:p.His938Arg	-	missense_variant	MISSENSE	Synthetic	substitution	SH3TC2	
 PTV095	6	110036337	T	TCAG	+	NM_014845.5:c.123_124insCAG	NC_000006.11:g.110036337_110036338insCAG	NP_055660.1:p.Ile41_Asp42insGln	-	inframe_insertion	NULL	Synthetic	insertion	FIG4	In frame insertion
 PTV096	6	110036337	TGAT	T	+	NM_014845.5:c.124_126delGAT	NC_000006.11:g.110036338_110036340delGAT	NP_055660.1:p.Asp42del	-	inframe_deletion	NULL	Synthetic	deletion	FIG4	In frame deletion; normalizes to 6:110036336:TTGA:T
+GG002	6	128318044	AC	GT	-	NM_002844.3:c.2767+1_2767+2invGT	NC_000006.11:g.128318044_128318045invAC	NP_002835.2:p.?	-	splice_donor_variant	NULL	COSMIC	inversion	PTPRK	COSM1137423; contributed by Mehis Pold/Garage Genomics
 PTV097	6	152651802	C	A	-	NM_033071.3:c.13805G>T	NC_000006.11:g.152651802C>A	NP_149062.1:p.Arg4602Leu	-	missense_variant	MISSENSE	Synthetic	substitution	SYNE1	
 PTV098	6	152737643	C	G	-	NM_033071.3:c.5950G>C	NC_000006.11:g.152737643C>G	NP_149062.1:p.Ala1984Pro	-	missense_variant	MISSENSE	Synthetic	substitution	SYNE1	
 PTV099	7	6026775	T	C	-	NM_000535.5:c.1621G=	NC_000007.13:g.6026775T>C	NP_000526.1:p.Glu541=	-	synonymous_variant	NULL	dbSNP	substitution	PMS2	Discrepancy between the RefSeq transcript and Genomic Sequence; not corrected in GRCh38. Variant is present in pseudogene/paralog but is not marked as a possible PSV by NCBI.
@@ -55,6 +60,7 @@ PTV113	9	21971208	C	A	-	NM_000077.4:c.151-1G>T	NC_000009.11:g.21971208C>A	-	-	sp
 PTV114	9	35683240	T	TG	-	NM_003289.3:c.773-3dupC	NC_000009.11:g.35683248dupG	-	-	intron_variant	NULL	ClinVar	insertion	TPM2	
 PTV115	9	135796754	G	A	-	NM_000368.4:c.733C>T	NC_000009.11:g.135796754G>A	NP_000359.1:p.Arg245*	-	stop_gained	NONSENSE	ClinVar	substitution	TSC1	
 PTV014	10	89623035	CGCA	C	-	NM_001126049.1:c.-794_-792delTGC	NC_000010.10:g.89623039_89623041delGCA	-		5_prime_UTR_variant		ClinVar	deletion	KLLN	5'UTR and right shifting; ClinVar has the incorrect syntax
+GG006	11	59828636	GG	CC	+	NM_006138.4:c.3_4invGG	NC_000011.9:g.59828636_59828637invGG	NP_006129.4:p.?	-	start_lost	NULL	COSMIC	inversion	MS4A3	COSM6133414; contributed by Mehis Pold/Garage Genomics
 PTV015	11	62457852	C	A	-	NM_032667.6:c.1184G>T	NC_000011.9:g.62457852C>A	NP_116056.3:p.Cys395Phe	-	missense_variant	MISSENSE	Synthetic	substitution	BSCL2	
 PTV016	11	108178710	A	AT	+	NM_000051.3:c.5761_5762insT	NC_000011.9:g.108178710_108178711insT	NP_000042.3:p.Arg1921Metfs*9	-	frameshift_variant+missense_variant	NULL	Synthetic	insertion	ATM	End of exon variant
 PTV017	11	111735981	G	A	-	NM_024740.2:c.406-7C>T	NC_000011.9:g.111735981G>A	-	-	splice_acceptor_variant	NULL	dbSNP	substitution	ALG9	
@@ -79,6 +85,7 @@ PTV036	15	89873415	G	A	-	NM_002693.2:c.752C>T	NC_000015.9:g.89873415G>A	NP_00268
 PTV037	16	2103394	C	T	+	NM_000548.3:c.277C>T	NC_000016.9:g.2103394C>T	NP_000539.2:p.Arg93Trp	-	missense_variant	MISSENSE	ClinVar	substitution	TSC2	
 PTV038	16	3779300	C	G	-	NM_004380.2:c.5748G>C	NC_000016.9:g.3779300C>G	NP_004371.2:p.Met1916Ile	-	missense_variant	MISSENSE	Synthetic	substitution	CREBBP	
 PTV039	16	5128843	C	G	+	NM_019109.4:c.826C>G	NC_000016.9:g.5128843C>G	NP_061982.3:p.Arg276Gly	-	missense_variant	MISSENSE	Synthetic	substitution	ALG1	
+GG004	16	28965980	AG	CT	+	NM_032815.3:c.555_556invAG	NC_000016.9:g.28965980_28965981invAG	NP_116204.3:p.Glu185_Glu186delinsAsp*	-	stop_gained	NONSENSE	COSMIC	inversion	NFATC2IP	COSM133553; contributed by Mehis Pold/Garage Genomics
 PTV040	16	74808559	C	T	-	NM_024306.4:c.95G>A	NC_000016.9:g.74808559C>T	NP_077282.3:p.Arg32His	-	missense_variant	MISSENSE	Synthetic	substitution	FA2H	
 PTV041	16	89574804	C	A	+	NM_003119.2:c.-22C>A	NC_000016.9:g.89574804C>A	-	-	5_prime_UTR_variant	NULL	Synthetic	substitution	SPG7	Substitution:  transcript has now been updated version
 PTV042	16	89574826	A	C	+	NM_003119.2:c.1A>C	NC_000016.9:g.89574826A>C	NP_003110.1:p.Met1?	-	start_lost	NULL	Synthetic	substitution	SPG7	Variant in start codon
